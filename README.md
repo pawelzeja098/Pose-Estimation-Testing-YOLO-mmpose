@@ -1,4 +1,4 @@
-# Tests of MMPoseInferencer human
+# Tests of MMPoseInferencer "human"
 ## Testing mmpose on images
 
 Images taken from Pinterest and Unsplash
@@ -11,7 +11,11 @@ Images taken from Pinterest and Unsplash
 
 
 
-## Testing MMPoseInterferencer on videos
+## Testing MMPoseInterferencer "human" on videos
+
+Results are available to see in ResultsVideo folder, tried to upload them there but its not working
+
+
 
 https://github.com/user-attachments/assets/5c5ed4af-f575-49c4-887e-e1158217a7c2
 
