@@ -1,13 +1,23 @@
 # Tests of MMPoseInferencer "human"
 ## Testing mmpose on images
+Tests are made on CPU Ryzen 5 5600.
+Images taken from Pinterest and Unsplash. 
 
-Images taken from Pinterest and Unsplash
+![image](https://github.com/user-attachments/assets/298d9426-04a2-4a5c-afc9-8b5fef4e9b13)
 
-![image](https://github.com/user-attachments/assets/04767925-2538-445f-b3f0-3468f3866ef7)
 
-![image](https://github.com/user-attachments/assets/62bb4b0e-a1f0-4676-92be-f594e5f4698b)
 
-![image](https://github.com/user-attachments/assets/b3f928d0-c3d6-4d7c-b796-6d87b83665c1)
+![image](https://github.com/user-attachments/assets/c56228d1-74e7-421b-aa41-d9fb6ec73d93)
+
+
+
+![image](https://github.com/user-attachments/assets/2245fbf1-d53b-475d-ae9c-52d76f1952ae)
+
+
+
+![image](https://github.com/user-attachments/assets/b30f6edf-b888-4b02-a827-1b985a8320ff)
+
+
 
 
 
