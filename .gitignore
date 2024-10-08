@@ -9,3 +9,5 @@ video/Nowy Dokument tekstowy.txt
 out_video.avi
 test.py
 ResultsHrnet
+yolo11n-pose.pt
+yolo11test.py
