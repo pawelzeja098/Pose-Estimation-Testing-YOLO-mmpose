@@ -15,7 +15,19 @@ Images taken from Pinterest and Unsplash.
 
 
 
-![image](https://github.com/user-attachments/assets/b30f6edf-b888-4b02-a827-1b985a8320ff)
+![image](https://github.com/user-attachments/assets/b30f6edf-b888-4b02-a827-1b985a8320ff)  
+
+
+## Testing YOLO11 on images
+
+![image](https://github.com/user-attachments/assets/38f4cc94-cdac-4d9d-a163-c2fdbea03a9d)
+
+![image](https://github.com/user-attachments/assets/58782162-fa3b-4b88-b642-e5257958e3d1)
+
+![image](https://github.com/user-attachments/assets/d4df470d-0823-4e11-a969-7d6925c775ba)
+
+![image](https://github.com/user-attachments/assets/5c650e3c-255c-40fd-9610-3a9dd60d45b3)
+
 
 
 
