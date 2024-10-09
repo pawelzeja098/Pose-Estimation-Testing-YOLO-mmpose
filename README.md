@@ -28,6 +28,17 @@ Images taken from Pinterest and Unsplash.
 
 ![image](https://github.com/user-attachments/assets/5c650e3c-255c-40fd-9610-3a9dd60d45b3)
 
+## Testing YOLO11x on images
+
+![image](https://github.com/user-attachments/assets/9c6cf5f5-1a2d-4a92-b9a4-8b6b3846268c)
+
+![image](https://github.com/user-attachments/assets/3b71e548-5106-469d-a933-960511f2fd8f)
+
+![image](https://github.com/user-attachments/assets/7cf82f71-3bb4-4c1b-abf0-356da4b8de8c)
+
+![image](https://github.com/user-attachments/assets/9abbb7e0-9f5e-4fb5-a389-7a8fcf54497f)
+
+
 
 
 
