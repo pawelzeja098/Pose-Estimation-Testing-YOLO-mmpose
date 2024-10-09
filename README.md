@@ -22,17 +22,24 @@ Images taken from Pinterest and Unsplash.
 
 ## Testing YOLO8n on images
 
-![image](https://github.com/user-attachments/assets/6d7ae554-ccb6-44e1-93cd-7237b1074072)
-
-
-![image](https://github.com/user-attachments/assets/0fd7521b-f5fd-423d-9bb6-0dc781381f9b)
-
-
-![image](https://github.com/user-attachments/assets/dda8297d-46ba-4df4-b921-36ac178559bb)
+![image](https://github.com/user-attachments/assets/c0d44749-6e48-44a4-a77c-c416f6fe1520)
 
 
 
-![image](https://github.com/user-attachments/assets/f30645e9-86c1-4ea1-be14-bac51d408619)
+
+![image](https://github.com/user-attachments/assets/6e5c25bb-3597-428f-9cac-eed27acbd801)
+
+
+
+
+![image](https://github.com/user-attachments/assets/1689d501-3b3a-4f1d-b4fa-d1faaba3d4a7)
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/d47453b6-43f9-40d4-ae57-29493ed3fd38)
+
 
 
 
