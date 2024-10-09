@@ -1,4 +1,7 @@
-# Tests of MMPoseInferencer "human"
+# Tests of MMPoseInferencer "human", YOLO8 and YOLO11 
+
+
+
 ## Testing mmpose on images
 Tests are made on CPU Ryzen 5 5600.
 Images taken from Pinterest and Unsplash. 
@@ -16,6 +19,22 @@ Images taken from Pinterest and Unsplash.
 
 
 ![image](https://github.com/user-attachments/assets/b30f6edf-b888-4b02-a827-1b985a8320ff)  
+
+## Testing YOLO8n on images
+
+![image](https://github.com/user-attachments/assets/6d7ae554-ccb6-44e1-93cd-7237b1074072)
+
+
+![image](https://github.com/user-attachments/assets/0fd7521b-f5fd-423d-9bb6-0dc781381f9b)
+
+
+![image](https://github.com/user-attachments/assets/dda8297d-46ba-4df4-b921-36ac178559bb)
+
+
+
+![image](https://github.com/user-attachments/assets/f30645e9-86c1-4ea1-be14-bac51d408619)
+
+
 
 
 ## Testing YOLO11n on images
