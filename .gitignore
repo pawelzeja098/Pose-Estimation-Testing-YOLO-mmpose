@@ -12,3 +12,5 @@ ResultsHrnet
 yolo11n-pose.pt
 yolo11test.py
 yolo11x-pose.pt
+yolov8n.pt
+yolo8test.ipynb
