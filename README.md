@@ -103,9 +103,17 @@ Image group15
 
 
 ## Yolo10n
+Image group 5
+![image](https://github.com/user-attachments/assets/8ae04f25-014f-4274-a232-8d1679f3fffc)
+
+![image](https://github.com/user-attachments/assets/524174a6-eb07-4362-8455-28c4a1127857)
+
 
 ## Yolo10x
 
+Image group
+
+![image](https://github.com/user-attachments/assets/51affcd1-769c-4756-aec9-7f77498c8266)
 
 
 ## Testing MMPoseInterferencer "human" on videos
