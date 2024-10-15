@@ -102,14 +102,14 @@ Image group15
 ![image](https://github.com/user-attachments/assets/daf3e1a6-d202-458f-bc09-86794f5d1c30)
 
 
-## Yolo10n
+## Yolo11n
 Image group 5
 ![image](https://github.com/user-attachments/assets/8ae04f25-014f-4274-a232-8d1679f3fffc)
 
 ![image](https://github.com/user-attachments/assets/524174a6-eb07-4362-8455-28c4a1127857)
 
 
-## Yolo10x
+## Yolo11x
 
 Image group
 
